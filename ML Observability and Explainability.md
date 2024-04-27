@@ -1,0 +1,3 @@
+-  Explain the feature importance of features
+- Use LIME or SHAP library  ( #TODO Read more about them and implement them in code )
+- understand, what accounts to the decision making of the model

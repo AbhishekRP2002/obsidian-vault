@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "3f4d26dbc52b07e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c66daa3b2616a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9434f5eb54707c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Regression and Polynomial Regression Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04368870b6d9f092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee0bc5aefc2154ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML Interview Prep and self notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76ce97b146a592eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotated DS DE Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "390ce6fceb1758b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a67450bb80d01c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c93ad3eb34e410",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ea1ed396174d570",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d33dda55ce012bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4a4c70132d1cea36",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8e1b65d3910e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30876144fe585cea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Annotated DS DE Concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "697045f1024451da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Annotated DS DE Concepts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1f9c1cfdb078a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d630ff8d9c0e8fc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Annotated DS DE Concepts.md"
+              }
+            }
+          },
+          {
+            "id": "8dea69722a8fe12e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "b8c93ad3eb34e410",
+  "lastOpenFiles": [
+    "Deep Learning Notes.md",
+    "Annotated DS DE Concepts.md",
+    "ML Interview Prep and self notes.md",
+    "Personal Projects.md",
+    "misc random.md",
+    "Refferals and Job Hunt.md",
+    "NLP Concepts.md",
+    "Linear Regression and Polynomial Regression Analysis.md",
+    "Activation Functions.md",
+    "Distributed ML.md",
+    "Testing ML Pipelines.md",
+    "PySpark Optimization.md",
+    "Data Engineering.md",
+    "LLMs and GenAI.md",
+    "ML Hyperparameter Optimization.md",
+    "PySpark Global.md",
+    "Pyspark Joins.md",
+    "SQL.md",
+    "How PySpark Works ? Internals of PySpark.md",
+    "Git.md",
+    "Pasted image 20240313011342.png",
+    "Recommendation Systems.md",
+    "PySpark Articles and References.md",
+    "PySpark RDD.md",
+    "Pasted image 20240309105608.png",
+    "piecesdb.json",
+    "ML Observability and Explainability.md",
+    "202403060042.md",
+    "2024-02-25.md"
+  ]
+}
